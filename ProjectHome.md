@@ -1,0 +1,1 @@
+My project is a Google Chrome based Linux distro which has svn/git auto-updating, and uses JavaScript + Haskell to do common system tasks in a distributed fashion.
